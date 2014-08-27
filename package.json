@@ -1,0 +1,26 @@
+{
+  "name": "hollywoodvis",
+  "version": "0.0.0",
+  "description": "Hollywood movies vis using JavaScript and a Google Drive",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/siyafrica/hollywoodvis.git"
+  },
+  "keywords": [
+    "visualization",
+    "javascript"
+  ],
+  "author": "Siya Africa",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/siyafrica/hollywoodvis/issues"
+  },
+  "dependencies": {
+    "csv": "^0.4.0",
+    "superagent": "^0.18.2"
+  }
+}
